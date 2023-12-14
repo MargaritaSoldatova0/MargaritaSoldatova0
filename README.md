@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I study at Peter the Great Polytechnic University.
+😄 My hobby is music, I'm learning to play the guitar/
 <!--
 **MargaritaSoldatova0/MargaritaSoldatova0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
